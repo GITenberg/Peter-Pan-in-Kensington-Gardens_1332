@@ -1,0 +1,31 @@
+_repo: Peter-Pan-in-Kensington-Gardens_1332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: Based on an abridged version. Contains only 4 chapters.
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Peter Pan (Fictitious character) -- Fiction'
+- !lcsh 'Fairies -- Fiction'
+- !lcsh 'Fantasy'
+- !lcsh 'Kensington Gardens (London, England) -- Fiction'
+- GITenberg
+tableOfContents: "Peter Pan\r\nThe Thrush's nest\r\nThe little house\r\nLock-out time"
+title: Peter Pan in Kensington Gardens
+url: http://www.gutenberg.org/ebooks/1332
